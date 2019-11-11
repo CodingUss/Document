@@ -51,10 +51,12 @@ Java有三个不同的版本：
 - 《Effective Java》
 - 《深入理解Java虚拟机》
 - 《Java并发编程》
+
 书籍关注公众号，后台发送"书籍"，可获取书籍下载链接。
 
 ### 工具
-- 编译器推荐使用 Jetbrains IDEA（[工具注册码免费获取](http://idea.medeming.com/）)
+- 编译器推荐使用 Jetbrains IDEA
+- [工具注册码免费获取](http://idea.medeming.com/)
 
 ## 1.5 java环境配置
 Java程序必须运行在JVM之上，所以我们第一件事应该安装JDK。
